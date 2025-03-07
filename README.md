@@ -16,23 +16,17 @@ bun dev
 
 ## Dark Mode Component
 
-### 📌 Dark Mode Toggle ([/src/app/components/darkmode/DarkModeToggle](components/darkmode/DarkModeToggle))
+### 📌 Dark Mode Toggle ( delicode\src\app\companent\darkmode)
 
 Dark mode için buton bileşeni.
 
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/electrichunter/delicode/public/readme/darkmode.png" alt="Dark Mode Toggle Preview" />
-</div>
+ 
 
 ---
 
 ## Logo Slider Component
 
-### 📌 Logo Slider ([/src/app/components/logoslider/LogoSlider](components/logoslider/LogoSlider))
+### 📌 Logo Slider (delicode\src\app\companent\logoslider)
 
 Framer Motion kullanarak sonsuz döngüyle kayan bir logo slider bileşeni.
-
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/electrichunter/delicode/public/" alt="Logo Slider Preview" />
-</div>
-
+ 
