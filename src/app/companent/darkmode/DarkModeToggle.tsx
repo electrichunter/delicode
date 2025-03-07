@@ -1,5 +1,7 @@
 "use client";
 
+//Please see global.css
+
 import React, { useState, useEffect } from "react";
 
 const DarkModeToggle: React.FC = () => {

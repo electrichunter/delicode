@@ -3,11 +3,20 @@ import { motion } from "framer-motion";
 import Image from "next/image";
  import "./logoslider.css";
 const logos = [
-  "/1384031.png",
-  "/15949717.png",
-  "/brain.png",
-  "/twitter_.png",
-  "/next.svg",
+"/al.png",
+"/application_15072085.png",
+"/next.svg", 
+"/file.svg",
+ 
+"/globe.svg",
+"/linkedin_1419518.png",
+"/map.png",
+
+"/shop.png",
+"/vercel.svg",
+"/whatsapp_1384095.png",
+"/window.svg",
+
 ];
 
 const BrandsCarousel = () => {
