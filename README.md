@@ -14,33 +14,25 @@ pnpm dev
 bun dev
 ```
 
- 
- <h3 align="center">Dark mode ( companent/darkmode/DarkModeToggle)</h3>
+## Dark Mode Component
 
-###
+### 📌 Dark Mode Toggle ([components/darkmode/DarkModeToggle](components/darkmode/DarkModeToggle))
 
-<p align="left">Darkmod modu için buton</p>
-
-###
+Dark mode için buton bileşeni.
 
 <div align="center">
-  <img height="200" src=" https://github.com/electrichunter/delicode/blob/master/public/readme/darkmode.png?raw=true"  />
+  <img height="200" src="https://raw.githubusercontent.com/electrichunter/delicode/main/public/readme/darkmode.png" alt="Dark Mode Toggle Preview" />
 </div>
 
-###
+---
 
-<br clear="both">
+## Logo Slider Component
 
-<h3 align="center">Logoslider    (companent/logoslider/logoslider)</h3>
+### 📌 Logo Slider ([components/logoslider/LogoSlider](components/logoslider/LogoSlider))
 
-###
+Framer Motion kullanarak sonsuz döngüyle kayan bir logo slider bileşeni.
 
 <div align="center">
-  <img height="200" src=" https://github.com/electrichunter/delicode/blob/master/public/readme/sliderlogo.png?raw=true"  />
+  <img height="200" src="https://raw.githubusercontent.com/electrichunter/delicode/main/public/readme/sliderlogo.png" alt="Logo Slider Preview" />
 </div>
 
-###
-
-<p align="left">Framer Motion kullanarak sonsuz döngüyle kayan bir logo slider</p>
-
-###
