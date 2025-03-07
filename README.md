@@ -21,7 +21,7 @@ bun dev
 Dark mode için buton bileşeni.
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/electrichunter/delicode/main/public/readme/darkmode.png" alt="Dark Mode Toggle Preview" />
+  <img height="200" src="https://raw.githubusercontent.com/electrichunter/delicode/public/readme/darkmode.png" alt="Dark Mode Toggle Preview" />
 </div>
 
 ---
@@ -33,6 +33,6 @@ Dark mode için buton bileşeni.
 Framer Motion kullanarak sonsuz döngüyle kayan bir logo slider bileşeni.
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/electrichunter/delicode/main/public/readme/sliderlogo.png" alt="Logo Slider Preview" />
+  <img height="200" src="https://raw.githubusercontent.com/electrichunter/delicode/public/readme/sliderlogo.png" alt="Logo Slider Preview" />
 </div>
 
